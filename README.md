@@ -1,2 +1,1 @@
-# pull-requests-idslatam
-Capacitación IDS Latam
+Lista de Integrantes Ingeniería de Software
