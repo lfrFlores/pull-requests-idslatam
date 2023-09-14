@@ -1,2 +1,3 @@
 Lista de Integrantes Ingeniería de Software
-Luis Flores
+
+Luis Naiby Flores
